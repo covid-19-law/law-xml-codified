@@ -41,6 +41,8 @@
   </collection>
   <collection name="cities/san-diego" type="city">
     <heading>San Diego</heading>
+    <xi:include href="./cities/san-diego/council/resolutions/312899.xml"/>
+    <xi:include href="./cities/san-diego/council/resolutions/312898.xml"/>
     <xi:include href="./cities/san-diego/council/resolutions/21177.xml"/>
     <xi:include href="./cities/san-diego/council/resolutions/312896.xml"/>
     <xi:include href="./cities/san-diego/council/resolutions/312895.xml"/>
