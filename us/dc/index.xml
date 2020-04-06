@@ -3,5 +3,6 @@
   <heading>District of Columbia</heading>
   <collection name="council/acts" type="city">
     <heading>Washington, D.C.</heading>
+    <xi:include href="./council/acts/23-247.xml"/>
   </collection>
 </collection>

@@ -17,7 +17,7 @@
       </repositories>
       <platform version="2020.2.0" reproducible="false"/>
       <build-date>2020-04-06</build-date>
-      <codified-date>2020-03-26</codified-date>
+      <codified-date>2020-04-02</codified-date>
     </build>
   </meta>
   <xi:include href="./us/az/index.xml"/>
